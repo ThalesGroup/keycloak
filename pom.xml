@@ -85,7 +85,7 @@
         <sun.istack.version>3.0.7</sun.istack.version>
         <sun.jaxb.version>2.3.1</sun.jaxb.version>
         <org.glassfish.jaxb.xsom.version>2.3.1</org.glassfish.jaxb.xsom.version>
-        <undertow.version>2.0.21.Final</undertow.version>
+        <undertow.version>2.1.3.Final</undertow.version>
         <elytron.version>1.9.1.Final</elytron.version>
         <elytron.undertow-server.version>1.5.0.Final</elytron.undertow-server.version>
         <jetty92.version>9.2.4.v20141103</jetty92.version>
